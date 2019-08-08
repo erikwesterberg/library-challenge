@@ -8,7 +8,6 @@ class Visitor
     def initialize
         @name = name
         @visitor_account_status = :active
-        
     end
 
     def name
